@@ -1,0 +1,2 @@
+# utl_propensity_for_students_to_be_in_the_same_classes
+Propensity for students to be in the same classes. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
