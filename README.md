@@ -61,7 +61,7 @@ Propensity for students to be in the same classes. Keywords: sas sql join merge 
     PROCESS (working code)
     ======================
 
-          have %nrstr%%*% t(have);
+          have %*% t(have);
 
 
     OUTPUT
