@@ -58,7 +58,7 @@ PAT 1 0 0 1 1 dot 0
 PROCESS (working code)
 ======================
 
-      have %nrstr%%*% t(have);
+      have %*% t(have);
 
 
 OUTPUT
